@@ -11,7 +11,7 @@ webpack@4.35.2<br>
 
 ## Sample
 This is just simple example, that you can click button to increase the number from initial value.<br>
-
+<img src="img/react_increment.jpg" width="100%"><br>
 
 ## Usage
 After clone or download to your certain directory:<br>
